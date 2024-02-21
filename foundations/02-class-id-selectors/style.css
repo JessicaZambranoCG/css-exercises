@@ -1,0 +1,20 @@
+.alert-text {
+    background: rgb(240, 153, 153);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#text {
+    color: blue;
+    font-size: 36px;
+}
+
+.severe-alert{
+    background: rgb(240, 153, 153);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 24px;
+}
+#name {
+    background: rgb(127, 231, 127);
+    font-size: 24px;
+    font-weight: bold;
+}
