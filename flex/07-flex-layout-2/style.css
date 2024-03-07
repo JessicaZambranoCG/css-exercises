@@ -25,7 +25,7 @@ body {
   display: flex;
 }
 
-.sidevar0{
+.container1{
   flex:1;
   display: flex;
 }
@@ -44,7 +44,7 @@ ul{
   padding: 0;
 }
 
-.content{
+.container2{
   display: flex;
   flex-wrap: wrap;
   padding: 32px;
