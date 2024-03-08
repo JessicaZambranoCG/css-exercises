@@ -32,13 +32,13 @@ input {
   display:flex;
   justify-content: space-between;
   align-items: center;
-  padding: 18px;
+  padding: 16px;
 }
 
 ul{
   display: flex;
   list-style: none;
-  gap: 18px;
+  gap: 16px;
   margin: 0;
   padding: 0;
 }
@@ -48,10 +48,15 @@ ul{
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  gap:18px;
+  gap: 16px;
   flex:1;
 }
 
 .footer{
   background-color: #eeeeee;
+}
+
+a{
+  text-decoration: none;
+  color: rgb(41, 40, 40);
 }
